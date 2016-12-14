@@ -1,6 +1,8 @@
 # FDF - 42School's project - 125/100
 ### User interface programmation through a 3D "wireframe" representation of a surface.
 
+<img align="center" src="http://i.imgur.com/oYXUdXq.png" width="100%" />
+
 ## Keyboard shortcuts
 
 <table width="100%">
